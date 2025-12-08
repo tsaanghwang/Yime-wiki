@@ -1,2 +1,2 @@
-#REDIRECT [[音元系统]]
+#REDIRECT [[首页]]
 
