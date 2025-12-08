@@ -1,0 +1,8 @@
+site_name: Yime Wiki
+theme:
+  name: material
+  font:
+    text: Noto Sans
+    code: Noto Sans Mono
+extra_css:
+  - stylesheets/extra.css
