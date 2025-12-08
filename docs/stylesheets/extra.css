@@ -7,8 +7,7 @@
   font-style: normal;
 }
 
-/* 如果有更多变体，添加类似规则 */
-
+/* 使用Web字体，Material主题会自动加载Google Fonts的Noto Sans */
 body {
   font-family: 'Noto Sans', sans-serif;
 }
