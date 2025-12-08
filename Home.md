@@ -1,4 +1,4 @@
-#REDIRECT [[Home]]
+#REDIRECT [[首页]]
 
 # 音元系统
 
