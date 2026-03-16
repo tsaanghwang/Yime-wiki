@@ -1,0 +1,440 @@
+{
+  "keyPositions": {
+    "Escape": {
+      "left": 118,
+      "top": 94
+    },
+    "F1": {
+      "left": 212,
+      "top": 94
+    },
+    "F2": {
+      "left": 259,
+      "top": 94
+    },
+    "F3": {
+      "left": 306,
+      "top": 94
+    },
+    "F4": {
+      "left": 353,
+      "top": 94
+    },
+    "F5": {
+      "left": 423,
+      "top": 94
+    },
+    "F6": {
+      "left": 470,
+      "top": 94
+    },
+    "F7": {
+      "left": 517,
+      "top": 94
+    },
+    "F8": {
+      "left": 564,
+      "top": 94
+    },
+    "F9": {
+      "left": 635,
+      "top": 94
+    },
+    "F10": {
+      "left": 682,
+      "top": 94
+    },
+    "F11": {
+      "left": 729,
+      "top": 94
+    },
+    "F12": {
+      "left": 776,
+      "top": 94
+    },
+    "PrintScreen": {
+      "left": 870,
+      "top": 94
+    },
+    "ScrollLock": {
+      "left": 917,
+      "top": 94
+    },
+    "Pause": {
+      "left": 964,
+      "top": 94
+    },
+    "VolumeMute": {
+      "left": 1152,
+      "top": 94
+    },
+    "VolumeDown": {
+      "left": 1105,
+      "top": 94
+    },
+    "VolumeUp": {
+      "left": 1058,
+      "top": 94
+    },
+    "MediaPlayPause": {
+      "left": 1199,
+      "top": 94
+    },
+    "Backquote": {
+      "left": 118,
+      "top": 165
+    },
+    "Digit1": {
+      "left": 165,
+      "top": 165
+    },
+    "Digit2": {
+      "left": 212,
+      "top": 165
+    },
+    "Digit3": {
+      "left": 259,
+      "top": 165
+    },
+    "Digit4": {
+      "left": 306,
+      "top": 165
+    },
+    "Digit5": {
+      "left": 353,
+      "top": 165
+    },
+    "Digit6": {
+      "left": 400,
+      "top": 165
+    },
+    "Digit7": {
+      "left": 447,
+      "top": 165
+    },
+    "Digit8": {
+      "left": 494,
+      "top": 165
+    },
+    "Digit9": {
+      "left": 541,
+      "top": 165
+    },
+    "Digit0": {
+      "left": 588,
+      "top": 165
+    },
+    "Minus": {
+      "left": 635,
+      "top": 165
+    },
+    "Equal": {
+      "left": 682,
+      "top": 165
+    },
+    "Backspace": {
+      "left": 729,
+      "top": 165
+    },
+    "Insert": {
+      "left": 870,
+      "top": 165
+    },
+    "Home": {
+      "left": 917,
+      "top": 165
+    },
+    "PageUp": {
+      "left": 964,
+      "top": 165
+    },
+    "NumLock": {
+      "left": 1058,
+      "top": 165
+    },
+    "NumpadDivide": {
+      "left": 1105,
+      "top": 165
+    },
+    "NumpadMultiply": {
+      "left": 1152,
+      "top": 165
+    },
+    "NumpadSubtract": {
+      "left": 1199,
+      "top": 165
+    },
+    "Tab": {
+      "left": 118,
+      "top": 212
+    },
+    "KeyQ": {
+      "left": 188,
+      "top": 212
+    },
+    "KeyW": {
+      "left": 235,
+      "top": 212
+    },
+    "KeyE": {
+      "left": 282,
+      "top": 212
+    },
+    "KeyR": {
+      "left": 329,
+      "top": 212
+    },
+    "KeyT": {
+      "left": 376,
+      "top": 212
+    },
+    "KeyY": {
+      "left": 423,
+      "top": 212
+    },
+    "KeyU": {
+      "left": 470,
+      "top": 212
+    },
+    "KeyI": {
+      "left": 518,
+      "top": 212
+    },
+    "KeyO": {
+      "left": 564,
+      "top": 212
+    },
+    "KeyP": {
+      "left": 611,
+      "top": 212
+    },
+    "BracketLeft": {
+      "left": 658,
+      "top": 212
+    },
+    "BracketRight": {
+      "left": 705,
+      "top": 212
+    },
+    "Backslash": {
+      "left": 752,
+      "top": 212
+    },
+    "Delete": {
+      "left": 870,
+      "top": 212
+    },
+    "End": {
+      "left": 917,
+      "top": 212
+    },
+    "PageDown": {
+      "left": 964,
+      "top": 212
+    },
+    "Numpad7": {
+      "left": 1058,
+      "top": 212
+    },
+    "Numpad8": {
+      "left": 1105,
+      "top": 212
+    },
+    "Numpad9": {
+      "left": 1152,
+      "top": 212
+    },
+    "NumpadAdd": {
+      "left": 1199,
+      "top": 212
+    },
+    "CapsLock": {
+      "left": 118,
+      "top": 259
+    },
+    "KeyA": {
+      "left": 212,
+      "top": 259
+    },
+    "KeyS": {
+      "left": 259,
+      "top": 259
+    },
+    "KeyD": {
+      "left": 306,
+      "top": 259
+    },
+    "KeyF": {
+      "left": 353,
+      "top": 259
+    },
+    "KeyG": {
+      "left": 400,
+      "top": 259
+    },
+    "KeyH": {
+      "left": 447,
+      "top": 259
+    },
+    "KeyJ": {
+      "left": 494,
+      "top": 259
+    },
+    "KeyK": {
+      "left": 541,
+      "top": 259
+    },
+    "KeyL": {
+      "left": 588,
+      "top": 259
+    },
+    "Semicolon": {
+      "left": 635,
+      "top": 259
+    },
+    "Quote": {
+      "left": 682,
+      "top": 259
+    },
+    "Enter": {
+      "left": 729,
+      "top": 259
+    },
+    "Numpad4": {
+      "left": 1058,
+      "top": 259
+    },
+    "Numpad5": {
+      "left": 1105,
+      "top": 259
+    },
+    "Numpad6": {
+      "left": 1152,
+      "top": 259
+    },
+    "ShiftLeft": {
+      "left": 118,
+      "top": 306
+    },
+    "KeyZ": {
+      "left": 235,
+      "top": 306
+    },
+    "KeyX": {
+      "left": 282,
+      "top": 306
+    },
+    "KeyC": {
+      "left": 329,
+      "top": 306
+    },
+    "KeyV": {
+      "left": 376,
+      "top": 306
+    },
+    "KeyB": {
+      "left": 423,
+      "top": 306
+    },
+    "KeyN": {
+      "left": 470,
+      "top": 306
+    },
+    "KeyM": {
+      "left": 517,
+      "top": 306
+    },
+    "Comma": {
+      "left": 564,
+      "top": 306
+    },
+    "Period": {
+      "left": 611,
+      "top": 306
+    },
+    "Slash": {
+      "left": 658,
+      "top": 306
+    },
+    "ShiftRight": {
+      "left": 705,
+      "top": 306
+    },
+    "Numpad1": {
+      "left": 1058,
+      "top": 306
+    },
+    "Numpad2": {
+      "left": 1105,
+      "top": 306
+    },
+    "Numpad3": {
+      "left": 1152,
+      "top": 306
+    },
+    "NumpadEnter": {
+      "left": 1199,
+      "top": 306
+    },
+    "ControlLeft": {
+      "left": 118,
+      "top": 353
+    },
+    "MetaLeft": {
+      "left": 165,
+      "top": 353
+    },
+    "AltLeft": {
+      "left": 212,
+      "top": 353
+    },
+    "Space": {
+      "left": 263,
+      "top": 353
+    },
+    "AltRight": {
+      "left": 611,
+      "top": 353
+    },
+    "MetaRight": {
+      "left": 658,
+      "top": 353
+    },
+    "ContextMenu": {
+      "left": 705,
+      "top": 353
+    },
+    "ControlRight": {
+      "left": 752,
+      "top": 353
+    },
+    "ArrowUp": {
+      "left": 917,
+      "top": 306
+    },
+    "ArrowLeft": {
+      "left": 870,
+      "top": 353
+    },
+    "ArrowDown": {
+      "left": 917,
+      "top": 353
+    },
+    "ArrowRight": {
+      "left": 964,
+      "top": 353
+    },
+    "Numpad0": {
+      "left": 1058,
+      "top": 353
+    },
+    "NumpadDecimal": {
+      "left": 1152,
+      "top": 353
+    },
+    "Calculator": {
+      "left": 1246,
+      "top": 94
+    }
+  }
+}
