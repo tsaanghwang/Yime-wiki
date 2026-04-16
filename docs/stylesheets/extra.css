@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Noto Sans';
+  src: url('../fonts/NotoSans-Regular.woff2') format('woff2'),
+       url('../fonts/NotoSans-Regular.woff') format('woff'),
+       url('../fonts/NotoSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 /* 使用Web字体，Material主题会自动加载Google Fonts的Noto Sans */
 body {
   font-family: 'Noto Sans', sans-serif;
