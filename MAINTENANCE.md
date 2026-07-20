@@ -19,7 +19,7 @@
 在真源仓库工作区干净、`main` 已推送后运行：
 
 ```powershell
-.\scripts\sync-native-wikis.ps1
+.\scripts\sync-native-wikis.cmd
 ```
 
 脚本只执行快进同步。若目标 Wiki 含有真源尚未吸收的提交，脚本会停止并要求先合并历史；它不会强制覆盖远端。
