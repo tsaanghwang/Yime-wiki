@@ -32,8 +32,12 @@ $unavailable = @()
 
 foreach ($target in $targets) {
     Write-Host "Checking $($target.Name)..."
+    $savedErrorActionPreference = $ErrorActionPreference
+    $ErrorActionPreference = "Continue"
     $symref = & git ls-remote --symref $target.Url HEAD 2>&1
-    if ($LASTEXITCODE -ne 0) {
+    $lsRemoteExitCode = $LASTEXITCODE
+    $ErrorActionPreference = $savedErrorActionPreference
+    if ($lsRemoteExitCode -ne 0) {
         $unavailable += $target.Name
         Write-Warning "$($target.Name) is not initialized or cannot be reached."
         continue
